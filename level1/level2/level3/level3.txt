@@ -1,2 +1,0 @@
-this is the third directory and this file is for the same directory that we will change it or remove it for the future purpose.
-
