@@ -14,5 +14,8 @@ THis is the famous and one of the Best Training course of Devops
 ##Git comparison
 Adding Git comparison lecture
 
+##Contribution
+Fork the report and raise pull request for review 
+
 ##Github content
 Comparison with repo
