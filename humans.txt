@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> JANANI <twitter>
+    JANANI
+    jananikumar1796@gmail.com
+    Devops Engineer
 
 # THANKS
 
-    <name>
+    JANANI
 
 # TECHNOLOGY COLOPHON
 
