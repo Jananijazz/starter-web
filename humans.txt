@@ -5,7 +5,7 @@
 
     JANANI
     jananikumar1796@gmail.com
-    Devops Engineer
+    
 
 # THANKS
 
@@ -16,3 +16,4 @@
     HTML5, CSS3, Angular, 
     jQuery, Modernizr
     Machine Learing, AWS, Google cloud
+
