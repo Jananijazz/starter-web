@@ -25,4 +25,5 @@ Adding some important notes for git stash.
     HTML5, CSS3, Angular, 
     jQuery, Modernizr
     Machine Learing, AWS, Google cloud
+    AWS Solution Architect Developer
 
