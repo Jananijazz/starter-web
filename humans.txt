@@ -3,11 +3,10 @@
 
 Hi, I am modifying the file before rebase
 
-<<<<<<< HEAD
-Doing some changes in local
-=======
-Hi, going to insert conflict in my feature branch
->>>>>>> mybranch
+
+Doing some changes in local.
+Adding some important notes for git stash.
+
 
 # TEAM
 
